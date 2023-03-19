@@ -1,7 +1,7 @@
 {
   "beforeVideo": {
     "backgroundImage": "https://",
-    "backgroundColor": "#000000",
+    "backgroundColor": "CE0755",
     "closable": true,
     "text": "video:cocacolaPromo.beforeVideoText",
     "logo": "https://"
