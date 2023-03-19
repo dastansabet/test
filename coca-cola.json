@@ -1,0 +1,17 @@
+{
+  "beforeVideo": {
+    "backgroundImage": "https://",
+    "backgroundColor": "#000000",
+    "closable": true,
+    "text": "video:cocacolaPromo.beforeVideoText",
+    "logo": "https://"
+  },
+  "afterVideo": {
+    "backgroundImage": "https://",
+    "text": "video:cocacolaPromo.afterVideoText",
+    "promoUrl": "https://",
+    "hasButton": true,
+    "buttonText": "video:cocacolaPromo.afterVideoButtonText",
+    "logo": "https://"
+  }
+}
