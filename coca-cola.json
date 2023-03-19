@@ -8,7 +8,7 @@
   },
   "afterVideo": {
     "backgroundImage": "https://",
-    "text": "video:cocacolaPromo.afterVideoText",
+    "text": "Магия момента вместе с Coca-Cola",
     "promoUrl": "https://",
     "hasButton": true,
     "buttonText": "video:cocacolaPromo.afterVideoButtonText",
