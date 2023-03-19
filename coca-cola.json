@@ -3,7 +3,7 @@
     "backgroundImage": "https://",
     "backgroundColor": "CE0755",
     "closable": true,
-    "text": "video:cocacolaPromo.beforeVideoText",
+    "text": "Вы смотрите это видео без рекламы благодаря Coca-Cola",
     "logo": "https://"
   },
   "afterVideo": {
