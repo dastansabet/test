@@ -4,14 +4,14 @@
     "backgroundColor": "CE0755",
     "closable": true,
     "text": "Вы смотрите это видео без рекламы благодаря Coca-Cola",
-    "logo": "https://"
+    "logo": "https://cdn-static01.static01.aitube.kz/coca-cola/2022-03-17/logo.png"
   },
   "afterVideo": {
     "backgroundImage": "https://",
     "text": "Магия момента вместе с Coca-Cola",
     "promoUrl": "https://",
     "hasButton": true,
-    "buttonText": "video:cocacolaPromo.afterVideoButtonText",
-    "logo": "https://github.com/dastansabet/test/raw/main/logo.pdf"
+    "buttonText": "Перейти",
+    "logo": "https://cdn-static01.static01.aitube.kz/coca-cola/2022-03-17/Coca-Cola_mobile.png"
   }
 }
